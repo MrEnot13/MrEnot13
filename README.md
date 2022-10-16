@@ -3,8 +3,8 @@
 ### Languages and Tools:
 ![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=devtools&logoColor=47C5FB)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=D7780A)
-![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=firebase&logoColor=F8C52C)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-090909?style=for-the-badge&logo=tensorflow&logoColor=F88C00)
+![Charles](https://img.shields.io/badge/-Charles-090909?style=for-the-badge&logo=сharles&logoColor=F8C52C)
+![Android SDK](https://img.shields.io/badge/-AndroidSDK-090909?style=for-the-badge&logo=android&logoColor=F88C00)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
