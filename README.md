@@ -4,10 +4,12 @@
 ![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=devtools&logoColor=47C5FB)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=D7780A)
 ![Charles](https://img.shields.io/badge/-Charles-090909?style=for-the-badge&logo=сharles&logoColor=F8C52C)
-![Android SDK](https://img.shields.io/badge/-AndroidSDK-090909?style=for-the-badge&logo=android&logoColor=F88C00)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![Android SDK](https://img.shields.io/badge/-AndroidSDK-090909?style=for-the-badge&logo=android&logoColor=07A709)
+![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=198FDD)
+![TestRail](https://img.shields.io/badge/-TestRail-090909?style=for-the-badge&logo=testrailt&logoColor=E5D3FF)
+![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=figma&logoColor=6296CC)
+![WebStorm](https://img.shields.io/badge/-WebStorm-090909?style=for-the-badge&logo=webstorm&logoColor=6296CC)
+![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql&logoColor=6296CC)
 
 <!--
 **MrEnot13/MrEnot13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
