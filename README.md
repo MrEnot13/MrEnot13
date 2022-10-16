@@ -1,6 +1,7 @@
 ### Hi there 👋
+I am a beginner QA Engineer. I'm also interested in website development. Here are my work.
 
-### Languages and Tools:
+### Tools:
 ![DevTools](https://img.shields.io/badge/-DevTools-090909?style=for-the-badge&logo=devtools&logoColor=47C5FB)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=D7780A)
 ![Charles](https://img.shields.io/badge/-Charles-090909?style=for-the-badge&logo=сharles&logoColor=F8C52C)
